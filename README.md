@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jeyran</h1>
+<img src="https://user-images.githubusercontent.com/77903220/222752244-ea07c034-cbb9-4532-9003-0630ba9f4c4a.jpeg">
+<h1 align="center">Hillow 🤩, I'm Jeyran</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-
 <p align="left"> <a href="https://twitter.com/jeylooj" target="blank"><img src="https://img.shields.io/twitter/follow/jeylooj?logo=twitter&style=for-the-badge" alt="jeylooj" /></a> </p>
 
 - 📚 I’m currently learning **React JS**
