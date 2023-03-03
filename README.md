@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/77903220/222755392-ce817b39-0320-4c37-9656-44018d0fb9a2.gif" width="100%" height="200">
 <h1 align="center">Hillow 🤩, I'm Jeyran</h1>
-<i align="center">A passionate frontend developer from Poland</i>
+
+
+<h4 align="center">A passionate frontend developer from Poland</h4>
 <p align="left"> <a href="https://twitter.com/jeylooj" target="blank"><img src="https://img.shields.io/twitter/follow/jeylooj?logo=twitter&style=for-the-badge" alt="jeylooj" /></a> </p>
 
 - 📚 I’m currently learning **React JS**
