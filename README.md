@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77903220/222755392-ce817b39-0320-4c37-9656-44018d0fb9a2.gif" width="100%" height="200">
+<img src="https://user-images.githubusercontent.com/77903220/222756009-e096ee06-4750-4824-8087-a4398a34776e.gif" width="90%" height="200" align="center" >
 <h1 align="center">Hillow 🤩, I'm Jeyran</h1>
 
 
