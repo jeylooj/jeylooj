@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/77903220/222756009-e096ee06-4750-4824-8087-a4398a34776e.gif" width="90%" height="200" align="center" >
 <h1 align="center">Hillow 🤩, I'm Jeyran</h1>
 
-<img src="https://user-images.githubusercontent.com/77903220/222757863-c81166f0-4b15-443d-94cc-72cde7cfc625.gif" width="400" height="300" align="right" >
+
+<img src="https://user-images.githubusercontent.com/77903220/222773709-656b645d-eeac-4ba3-b8c9-71cce90e3ec0.gif" width="400" height="400" align="right" >
 
 
 <h4 align="center">A passionate frontend developer from Poland</h4>
