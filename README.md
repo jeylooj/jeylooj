@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/77903220/222756009-e096ee06-4750-4824-8087-a4398a34776e.gif" width="90%" height="200" align="center" >
 <h1 align="center">Hillow 🤩, I'm Jeyran</h1>
 
+<img src="https://user-images.githubusercontent.com/77903220/222757863-c81166f0-4b15-443d-94cc-72cde7cfc625.gif" width="400" height="300" align="right" >
+
 
 <h4 align="center">A passionate frontend developer from Poland</h4>
 <p align="left"> <a href="https://twitter.com/jeylooj" target="blank"><img src="https://img.shields.io/twitter/follow/jeylooj?logo=twitter&style=for-the-badge" alt="jeylooj" /></a> </p>
