@@ -1,5 +1,5 @@
 <h1 align="center">Hillow 🤩, I'm Jeyran</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<i align="center">A passionate frontend developer from Poland</i>
 <p align="left"> <a href="https://twitter.com/jeylooj" target="blank"><img src="https://img.shields.io/twitter/follow/jeylooj?logo=twitter&style=for-the-badge" alt="jeylooj" /></a> </p>
 
 - 📚 I’m currently learning **React JS**
